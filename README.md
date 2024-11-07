@@ -15,4 +15,4 @@ This system allows efficient management of employee data (such as ID, Name, Depa
 5. When opening an existing employee from the employee list, a REST API is called to fetch weather information based on the employee's location.
 
 ## CONTRIBUTOR
---Shraddha Gupta (shraddha.gupta@nagarro.com)
+--Shraddha Gupta
